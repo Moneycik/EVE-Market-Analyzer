@@ -1,2 +1,3 @@
-# EVE-Market-Analyzer
-EVE Online Trading Tool
+# Trading Matrix for EVE Online
+Trading Matrix for EVE Online
+
